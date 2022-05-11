@@ -1,7 +1,7 @@
-﻿Item,ID,Color,location
-Chair,100,Black,store
-Chair,101,Brown,store
-Chair,102,White,store
+﻿Item,ID,Color,available
+Chair-bsc,100,Black,store
+Chair-bsc,101,Brown,store
+Chair-bsc,102,White,store
 Table,105,Black,online
 Table,106,Brown,store
 Table,107,Cherry,online
